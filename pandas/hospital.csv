@@ -1,0 +1,6 @@
+Patient_ID,Name,Age,Gender,Department,Doctor,Admission_Date,Discharge_Date,Diagnosis,Treatment_Cost
+P001,Alice,32,F,Cardiology,Dr. Sharma,2025-08-01,2025-08-05,Hypertension,15000
+P002,Bob,45,M,Orthopedics,Dr. Mehta,2025-08-02,2025-08-06,Fracture Leg,25000
+P003,Charlie,29,M,Neurology,Dr. Iyer,2025-08-03,2025-08-07,Migraine,12000
+P004,Diana,54,F,Cardiology,Dr. Sharma,2025-08-04,2025-08-08,Heart Disease,40000
+P005,Frank,40,M,General Surgery,Dr. Singh,2025-08-05,2025-08-09,Appendicitis,18000

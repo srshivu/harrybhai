@@ -1,0 +1,15 @@
+.message {
+    background-color: green;
+    padding: 20px;
+    border-radius: 10px;
+    color: rgb(165, 48, 48);
+    font-size: 50px;
+    text-align:left;
+}
+body {
+    background: yellow;
+}
+.message {
+    color: red !important;
+}
+

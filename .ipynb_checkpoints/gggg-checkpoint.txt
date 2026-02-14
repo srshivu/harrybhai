@@ -1,0 +1,1 @@
+{"name": "mpl", "age": 22, "marks": 100}
